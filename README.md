@@ -6,5 +6,4 @@
 [KSM function & memory used tracing](https://hackmd.io/MUaiGWZrQ2-JDcsTFRZqoA)
 ## 實驗記錄
 [實驗記錄](https://hackmd.io/FVEvBEh_QKyhRCYZ-7b1hQ)
-## 實驗數據
-[實驗數據](https://drive.google.com/drive/u/0/folders/1WFh4IEIOHvKvwZLSSY492pq8mM6geLCX)
+
